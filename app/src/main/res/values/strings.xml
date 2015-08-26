@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PruebaConexionVGingerBread</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nom">Nombre</string>
+    <string name="apepa">Apellido Paterno</string>
+    <string name="apema">Apellido Materno</string>
+    <string name="tel">Telefono</string>
+    <string name="face">Facebook</string>
+    <string name="fecha">Fecha de Registro</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="calle">Calle</string>
+    <string name="col">Colonia</string>
+    <string name="cd">Ciudad</string>
+    <string name="tipo">Tipo:</string>
+    <string name="monto">Monto $</string>
+    <string name="para">Para:</string>
+    <string name="renta">Renta</string>
+    <string name="venta">Venta</string>
+    <string name="Success">Success!</string>
+    <string-array name="ciudad">
+        <item>Puerto Vallarta</item>
+        <item>Bahia de banderas</item>
+    </string-array>
+    <string-array name="Tipo">
+        <item>Casa</item>
+        <item>Departamento</item>
+        <item>Terreno</item>
+    </string-array>
+    <string name="Precio">Precio $:</string>
+    <string name="Buscar">Busca</string>
+    <string name="Alta">Alta</string>
+    <string name="Consulta">Consulta</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="ingreso">Ingreso</string>
+    <string name="registro">Registro</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="registro_casa">Registrar Casa</string>
+
+</resources>
